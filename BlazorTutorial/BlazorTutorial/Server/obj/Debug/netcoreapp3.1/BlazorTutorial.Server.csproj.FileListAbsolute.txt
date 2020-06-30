@@ -160,3 +160,4 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Server/obj/Debug/netcoreapp3.1/BlazorTutorial.Server.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Server/obj/Debug/netcoreapp3.1/BlazorTutorial.Server.pdb
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Server/obj/Debug/netcoreapp3.1/BlazorTutorial.Server.genruntimeconfig.cache
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll

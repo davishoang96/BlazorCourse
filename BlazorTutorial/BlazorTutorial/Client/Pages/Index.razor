@@ -1,15 +1,33 @@
 ﻿@page "/"
 
-<h1>@ironman.Title</h1>
-<h3>@ironman.ReleaseDate.ToString("dd/mm/yy")</h3>
+<div>
+    <h1>Movie</h1>
+    @foreach(var movie in movies)
+    {
+        <h3>Title: @movie.Title</h3>
+        <p>Release date: @movie.ReleaseDate.ToString("yy-MM-dd")</p>
+    }
+
+    <h3>Number of movies in database:
+        @for(var i = 1; i < movies.Count; i++)
+        {
+            <p>i</p>
+        }
+    </h3>
+</div>
 
 @code{
 
-    Movie ironman = new Movie()
+    List<Movie> movies;
+
+    protected override void OnInitialized()
     {
-        Title = "Iron Man",
-        ReleaseDate = new DateTime(2009, 2, 4)
-    };
-
-
+        movies = new List<Movie>()
+        {
+            new Movie() { Title = "Inception", ReleaseDate = new DateTime(2009, 1, 6) },
+            new Movie() { Title = "Iron Man", ReleaseDate = new DateTime(2001, 1, 6) },
+            new Movie() { Title = "Star War: Return of the Jedi", ReleaseDate = new DateTime(1995, 1, 6) },
+            new Movie() { Title = "Thor: Dark World", ReleaseDate = new DateTime(2011, 11, 6) },
+        };
+    }
 }

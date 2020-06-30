@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xLzUtVGvH0TB7HRoDsZ4++GKFYDgJA2ea4dkcz6AUhoT9cEaD7k6xngUHGH1J6jN8PoumY1WfPv8+JAbE9f+BQ==",
+  "dgSpecHash": "Tad/zPdXU8lJWW74NEUyPA6L2hzp1nSivuf1Bxw+Ip/HnlvzYQAbtb1OMNagilHN9dlTsnVKpqQFsw0MQ6y3lQ==",
   "success": true,
   "projectFilePath": "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Server/BlazorTutorial.Server.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "/Users/crystark/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/3.1.3/microsoft.aspnetcore.identity.entityframeworkcore.3.1.3.nupkg.sha512",
     "/Users/crystark/.nuget/packages/microsoft.aspnetcore.identity.ui/3.1.3/microsoft.aspnetcore.identity.ui.3.1.3.nupkg.sha512",
     "/Users/crystark/.nuget/packages/microsoft.aspnetcore.metadata/3.1.3/microsoft.aspnetcore.metadata.3.1.3.nupkg.sha512",
+    "/Users/crystark/.nuget/packages/microsoft.aspnetcore.razor.language/3.1.5/microsoft.aspnetcore.razor.language.3.1.5.nupkg.sha512",
     "/Users/crystark/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/Users/crystark/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "/Users/crystark/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

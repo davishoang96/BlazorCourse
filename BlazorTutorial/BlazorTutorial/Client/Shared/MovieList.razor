@@ -4,12 +4,9 @@
 }
 else
 {
-    <h1>Movie</h1>
     @foreach (var movie in Movies)
     {
-
-        <h3>Title: @movie.Title</h3>
-        <p>Release date: @movie.ReleaseDate.ToString("yy-MM-dd")</p>
+        <IndividualMovie Movie="movie" />
     }
 }
 

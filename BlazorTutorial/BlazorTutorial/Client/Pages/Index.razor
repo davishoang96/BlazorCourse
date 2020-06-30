@@ -1,22 +1,25 @@
 ﻿@page "/"
 
-<MovieList Movies="movies"/>
- 
+
+    <div>
+
+        <h1>Top Hit</h1>
+        <MovieList Movies="movies"/>
+
+    </div>
+
 @code{
 
-    private List<Movie> movies;
+    List<Movie> movies;
 
-   
-
-    protected override void OnInitialized()
+    protected async override Task OnInitializedAsync()
     {
+        // wait 300 miliseconds
+        await Task.Delay(300);
+
         movies = new List<Movie>()
         {
             new Movie() { Title = "Inception", ReleaseDate = new DateTime(2009, 1, 6) },
-            new Movie() { Title = "Iron Man", ReleaseDate = new DateTime(2001, 1, 6) },
-            new Movie() { Title = "Star War: Return of the Jedi", ReleaseDate = new DateTime(1995, 1, 6) },
-            new Movie() { Title = "Thor: Dark World", ReleaseDate = new DateTime(2011, 11, 6) },
         };
     }
-
 }

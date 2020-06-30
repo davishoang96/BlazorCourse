@@ -83,6 +83,20 @@ using BlazorTutorial.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/_Imports.razor"
+using BlazorTutorial.Client.Helpers;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/_Imports.razor"
+using BlazorTutorial.Shared.Entity;
+
+#line default
+#line hidden
+#nullable disable
     public partial class MainLayout : LayoutComponentBase
     {
         #pragma warning disable 1998

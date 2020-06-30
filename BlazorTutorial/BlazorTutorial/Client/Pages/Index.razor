@@ -8,13 +8,17 @@
 
     </div>
 
+    <div>
+        <DummyTextInput type="text" placeholder="Interstellar" />
+    </div>
+
 @code{
 
     List<Movie> movies;
 
     protected async override Task OnInitializedAsync()
     {
-        // wait 300 miliseconds
+        
         await Task.Delay(300);
 
         movies = new List<Movie>()

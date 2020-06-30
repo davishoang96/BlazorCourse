@@ -415,8 +415,10 @@
 >>>>>>> parent of ee74516... Introduction to Components
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/IndividualMovie.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/IndividualMovie.razor.g.cs
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/Fz_2_ERLn2Y-WZgp_3bX2K8dZKvgwkQ8q_0S-uybJ3I=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/agDe0lL29H3JS4ODxLRdB3azpWESSgPbzISoHu_3KnU=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/rzd9ZcbcKUjsugeI7d27RFSSPKbjqL4pWFo5biIGV_E=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/hkOLdLEJ41xyzBny1BdxB0PGvY9FzCqaSFgKdweCiH0=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/PZz-BBwFNse_tIzhp9gGS55rvMIRsmpUIT_kgtQjhgY=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/DummyTextInput.razor.g.cs
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/DummyTextInput.razor.g.cs
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/0Xpt36ynM43Yqj7sconqg7r5hNhiuONOaOAwJRIi60k=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/QLZ5i2_zv-gqAy-olI2nnyQETP3my1WV6eEt5pXCilQ=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/huuzIU0n3UpxAOJNSFobJTzaT1c6Vnkn2G0dvAkV88U=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/QQLJxryEOFyQekcJ8LvCVmUIpDfEEza-ADvaBHbpCqw=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/fe3SHYRPVKKGNTgwOn5RG0gtmgRCIpQckS5BhQveC0o=.hash

@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{50B5D53E-E630-4AFC-BBC7-E1C0037010D8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorTutorial/Client/Shared/IndividualMovie.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorTutorial/Client/Shared/DummyTextInput.razor">
     <Files>
-      <File FileName="BlazorTutorial/Client/Pages/Index.razor" Line="6" Column="20" />
-      <File FileName="BlazorTutorial/Client/Shared/MovieList.razor" Line="1" Column="1" />
-      <File FileName="BlazorTutorial/Client/Shared/IndividualMovie.razor" Line="22" Column="2" />
+      <File FileName="BlazorTutorial/Client/Pages/Index.razor" Line="17" Column="9" />
+      <File FileName="BlazorTutorial/Client/Shared/MovieList.razor" Line="6" Column="2" />
+      <File FileName="BlazorTutorial/Client/Shared/IndividualMovie.razor" Line="7" Column="49" />
+      <File FileName="BlazorTutorial/Client/wwwroot/index.html" Line="1" Column="1" />
+      <File FileName="BlazorTutorial/Client/Shared/DummyTextInput.razor" Line="1" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +14,10 @@
             <Node name="BlazorTutorial.Client" expanded="True">
               <Node name="Pages" expanded="True" />
               <Node name="Shared" expanded="True">
-                <Node name="IndividualMovie.razor" selected="True" />
+                <Node name="DummyTextInput.razor" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
               </Node>
             </Node>
           </Node>

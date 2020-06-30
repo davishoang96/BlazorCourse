@@ -6,4 +6,3 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/Debug/netstandard2.1/BlazorTutorial.Shared.csproj.CoreCompileInputs.cache
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/Debug/netstandard2.1/BlazorTutorial.Shared.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/Debug/netstandard2.1/BlazorTutorial.Shared.pdb
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/Debug/netstandard2.1/BlazorTutorial.Shared.csprojAssemblyReference.cache

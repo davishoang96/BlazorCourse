@@ -1,11 +1,11 @@
-﻿@if (movies is null)
+﻿@if (Movies is null)
 {
     <p>Loading....</p>
 }
 else
 {
     <h1>Movie</h1>
-    @foreach (var movie in movies)
+    @foreach (var movie in Movies)
     {
 
         <h3>Title: @movie.Title</h3>
@@ -13,20 +13,10 @@ else
     }
 }
 
-@code {
-
-    List<Movie> movies;
-
-    protected override void OnInitialized()
-    {
-
-
-        movies = new List<Movie>()
+@code
 {
-            new Movie() { Title = "Inception", ReleaseDate = new DateTime(2009, 1, 6) },
-            new Movie() { Title = "Iron Man", ReleaseDate = new DateTime(2001, 1, 6) },
-            new Movie() { Title = "Star War: Return of the Jedi", ReleaseDate = new DateTime(1995, 1, 6) },
-            new Movie() { Title = "Thor: Dark World", ReleaseDate = new DateTime(2011, 11, 6) },
-        };
-    }
+
+    [Parameter] public List<Movie> Movies { get; set; }
+
+    
 }

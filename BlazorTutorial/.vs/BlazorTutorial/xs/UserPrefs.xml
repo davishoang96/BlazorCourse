@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{50B5D53E-E630-4AFC-BBC7-E1C0037010D8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorTutorial/Client/Pages/Index.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorTutorial/Shared/BlazorTutorial.Shared.csproj">
     <Files>
-      <File FileName="BlazorTutorial/Client/Pages/Index.razor" Line="3" Column="14" />
-      <File FileName="BlazorTutorial/Client/Shared/MovieList.razor" />
-      <File FileName="BlazorTutorial/Client/_Imports.razor" />
-      <File FileName="BlazorTutorial/Client/Pages/Counter.razor" />
-      <File FileName="BlazorTutorial/Client/Pages/FetchData.razor" />
+      <File FileName="BlazorTutorial/Client/Pages/Index.razor" Line="2" Column="1" />
+      <File FileName="BlazorTutorial/Client/Shared/MovieList.razor" Line="1" Column="1" />
+      <File FileName="BlazorTutorial/Client/Pages/Counter.razor" Line="32" Column="6" />
+      <File FileName="BlazorTutorial/Shared/BlazorTutorial.Shared.csproj" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +13,18 @@
             <Node name="BlazorTutorial.Client" expanded="True">
               <Node name="Helpers" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Index.razor" selected="True" />
+                <Node name="Counter.razor" selected="True" />
               </Node>
               <Node name="Shared" expanded="True" />
             </Node>
-            <Node name="BlazorTutorial.Server" expanded="True" />
+            <Node name="BlazorTutorial.Server" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
             <Node name="BlazorTutorial.Shared" expanded="True" />
           </Node>
         </State>
@@ -27,7 +33,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.BlazorTutorial.Server PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.ItemProperties.BlazorTutorial.Server PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

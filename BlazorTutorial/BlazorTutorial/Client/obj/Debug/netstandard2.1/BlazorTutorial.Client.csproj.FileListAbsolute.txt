@@ -42,9 +42,9 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorTutorial.Shared.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Authorization.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Metadata.dll
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorTutorial.Shared.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll
@@ -108,9 +108,9 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorTutorial.Shared.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Authorization.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorTutorial.Shared.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll.gz
@@ -143,6 +143,7 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Metadata.dll
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Razor.Language.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.dll
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Abstractions.dll
@@ -184,6 +185,7 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/LoginDisplay.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MovieList.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/RedirectToLogin.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
@@ -199,6 +201,7 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Pages/Index.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/LoginDisplay.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/MovieList.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/RedirectToLogin.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
@@ -206,6 +209,7 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/BlazorTutorial.Client.RazorTargetAssemblyInfo.cache
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/BlazorTutorial.Client.csproj.CopyComplete
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/blazor/unlinked.output
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/grq9HRVl3ZFeSQ-2AA1_vn84eLunvaGonq23XQEOKMY=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -245,6 +249,7 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/DG1MjidH81NA50uWH63eWmXLCxt18sJzoF2oXVlyvlY=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/b6UoUDhAs2puarT1-fueQ9IcLvLvpvVFDNy4Vt8NQ7k=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/mGxCo8RCg5LTzsGbr4Sgjv8uRjDw9eZ78Uoxhcr5hzY=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/gjsP8E-7IASgpX62xr2olUF8rZuWC8RVcwHU1lOQxOo=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/v4LhihP26fP-dVajppSCZIrCVbkiALCJgAisyG2cmJQ=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
@@ -262,11 +267,14 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/BK8NMdxW00mupDecRmzH2HzZ7ju2ZJ3Rif5wUfwo8Ak=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/SEN7J-aNzjVAcQKdw0p0fWhiVtluu6GBBH0FYZBU7IU=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/blazor/blazor.boot.json
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/SqzB2Ur-F1zAt4dKaB2OB64j0DIuiBzOXQeYN7iS8Po=.hash
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/service-worker-assets.js.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorTutorial.Client.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
@@ -306,9 +314,9 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorTutorial.Shared.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Authorization.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorTutorial.Shared.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Annotations.dll.gz
@@ -372,9 +380,9 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.br
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.br
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.br
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorTutorial.Shared.dll.br
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Authorization.dll.br
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Metadata.dll.br
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorTutorial.Shared.dll.br
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.br
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.br
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Annotations.dll.br
@@ -405,13 +413,4 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/BlazorTutorial.Client.pdb
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/blazor/serviceworkers/wwwroot/service-worker.js
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/blazor/service-worker-assets.js
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/gjsP8E-7IASgpX62xr2olUF8rZuWC8RVcwHU1lOQxOo=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/SEN7J-aNzjVAcQKdw0p0fWhiVtluu6GBBH0FYZBU7IU=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Razor.Language.dll
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MovieList.razor.g.cs
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/MovieList.razor.g.cs
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/Z7BDuWwjot7LmOWixIg2IrhNp8sFX5EUoNhDiGSU-nc=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/n_5Gu8cNtyOXeiJc4iTy-uPk3-0tC3odxR7zIueYZPA=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/JuiTVTAeOnR-6f7EQKXFi-GT4tr3JQMEiaMKl_vA4No=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/YZxVXuwiw9JISJqaa_4m3wguNE5lXddcW-RcX7az1b4=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/hM9OnHdk56Z4A2HoRuHnUaLiidtnFbeLtQUehi8DVuI=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/8mdtaqakleFVWMGfPIfwSUNzLYpvRVjY2Gaymcxxe24=.hash

@@ -1,27 +1,35 @@
 ﻿<Properties StartupConfiguration="{50B5D53E-E630-4AFC-BBC7-E1C0037010D8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorTutorial/Client/Pages/Index.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorTutorial/Shared/Entity/Movie.cs">
     <Files>
-      <File FileName="BlazorTutorial/Client/Pages/Index.razor" Line="7" Column="71" />
+      <File FileName="BlazorTutorial/Client/Pages/Index.razor" Line="3" Column="1" />
       <File FileName="BlazorTutorial/Client/Shared/LoginDisplay.razor" Line="1" Column="1" />
       <File FileName="BlazorTutorial/Client/Program.cs" Line="1" Column="1" />
-      <File FileName="BlazorTutorial/Client/_Imports.razor" Line="1" Column="1" />
+      <File FileName="BlazorTutorial/Client/_Imports.razor" Line="11" Column="22" />
       <File FileName="BlazorTutorial/Client/App.razor" Line="1" Column="1" />
       <File FileName="BlazorTutorial/Client/Pages/Counter.razor" Line="7" Column="32" />
+      <File FileName="BlazorTutorial/Server/Program.cs" Line="18" Column="45" />
+      <File FileName="BlazorTutorial/Client/Helpers/StringUtilities.cs" Line="2" Column="11" />
+      <File FileName="BlazorTutorial/Shared/Entity/Movie.cs" Line="8" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BlazorTutorial" expanded="True">
             <Node name="BlazorTutorial.Client" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Index.razor" selected="True" />
-              </Node>
-              <Node name="Shared" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Pages" expanded="True" />
             </Node>
             <Node name="BlazorTutorial.Server" expanded="True" />
-            <Node name="BlazorTutorial.Shared" expanded="True" />
+            <Node name="BlazorTutorial.Shared" expanded="True">
+              <Node name="Entity" expanded="True">
+                <Node name="Movie.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

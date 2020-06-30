@@ -14,6 +14,8 @@ namespace BlazorTutorial.Server
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+            Console.WriteLine("Blazor run");
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

@@ -1,43 +1,8 @@
 ﻿@page "/"
 
-    <div>
-
-        @if (movies is null)
-        {
-            <p>Loading....</p>
-        }
-        else
-        {
-            <h1>Movie</h1>
-            @foreach (var movie in movies)
-            {
-
-                <h3>Title: @movie.Title</h3>
-                <p>Release date: @movie.ReleaseDate.ToString("yy-MM-dd")</p>
-            }
-        }
-
-
-
-
-    </div>
+<MovieList />
 
 @code{
 
-    List<Movie> movies;
 
-    protected async override Task OnInitializedAsync()
-    {
-        // wait 300 miliseconds
-        await Task.Delay(300);
-
-
-        movies = new List<Movie>()
-        {
-            new Movie() { Title = "Inception", ReleaseDate = new DateTime(2009, 1, 6) },
-            new Movie() { Title = "Iron Man", ReleaseDate = new DateTime(2001, 1, 6) },
-            new Movie() { Title = "Star War: Return of the Jedi", ReleaseDate = new DateTime(1995, 1, 6) },
-            new Movie() { Title = "Thor: Dark World", ReleaseDate = new DateTime(2011, 11, 6) },
-        };
-    }
 }

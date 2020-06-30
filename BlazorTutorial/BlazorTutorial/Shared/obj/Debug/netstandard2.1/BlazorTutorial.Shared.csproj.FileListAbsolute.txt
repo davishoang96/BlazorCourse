@@ -1,0 +1,8 @@
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/bin/Debug/netstandard2.1/BlazorTutorial.Shared.deps.json
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/bin/Debug/netstandard2.1/BlazorTutorial.Shared.dll
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/bin/Debug/netstandard2.1/BlazorTutorial.Shared.pdb
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/Debug/netstandard2.1/BlazorTutorial.Shared.AssemblyInfoInputs.cache
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/Debug/netstandard2.1/BlazorTutorial.Shared.AssemblyInfo.cs
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/Debug/netstandard2.1/BlazorTutorial.Shared.csproj.CoreCompileInputs.cache
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/Debug/netstandard2.1/BlazorTutorial.Shared.dll
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/Debug/netstandard2.1/BlazorTutorial.Shared.pdb

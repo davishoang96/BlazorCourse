@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{50B5D53E-E630-4AFC-BBC7-E1C0037010D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorTutorial/Client/Pages/Index.razor">
+    <Files>
+      <File FileName="BlazorTutorial/Client/Pages/Index.razor" Line="7" Column="71" />
+      <File FileName="BlazorTutorial/Client/Shared/LoginDisplay.razor" Line="1" Column="1" />
+      <File FileName="BlazorTutorial/Client/Program.cs" Line="1" Column="1" />
+      <File FileName="BlazorTutorial/Client/_Imports.razor" Line="1" Column="1" />
+      <File FileName="BlazorTutorial/Client/App.razor" Line="1" Column="1" />
+      <File FileName="BlazorTutorial/Client/Pages/Counter.razor" Line="7" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorTutorial" expanded="True">
+            <Node name="BlazorTutorial.Client" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+            </Node>
+            <Node name="BlazorTutorial.Server" expanded="True" />
+            <Node name="BlazorTutorial.Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BlazorTutorial.Server PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

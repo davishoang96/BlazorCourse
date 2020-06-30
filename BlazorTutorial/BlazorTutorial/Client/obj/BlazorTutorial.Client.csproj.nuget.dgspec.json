@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/BlazorTutorial.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/BlazorTutorial.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/BlazorTutorial.Client.csproj",
+        "projectName": "BlazorTutorial.Client",
+        "projectPath": "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/BlazorTutorial.Client.csproj",
+        "packagesPath": "/Users/crystark/.nuget/packages/",
+        "outputPath": "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/crystark/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/BlazorTutorial.Shared.csproj": {
+                "projectPath": "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/BlazorTutorial.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/BlazorTutorial.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/BlazorTutorial.Shared.csproj",
+        "projectName": "BlazorTutorial.Shared",
+        "projectPath": "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/BlazorTutorial.Shared.csproj",
+        "packagesPath": "/Users/crystark/.nuget/packages/",
+        "outputPath": "/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/crystark/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

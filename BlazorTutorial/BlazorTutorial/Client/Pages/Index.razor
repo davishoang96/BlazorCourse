@@ -1,27 +1,37 @@
 ﻿@page "/"
 
-<div>
-    <h1>Movie</h1>
-    @foreach(var movie in movies)
-    {
-        <h3>Title: @movie.Title</h3>
-        <p>Release date: @movie.ReleaseDate.ToString("yy-MM-dd")</p>
-    }
+    <div>
 
-    <h3>Number of movies in database:
-        @for(var i = 1; i < movies.Count; i++)
+        @if (movies is null)
         {
-            <p>i</p>
+            <p>Loading....</p>
         }
-    </h3>
-</div>
+        else
+        {
+            <h1>Movie</h1>
+            @foreach (var movie in movies)
+            {
+
+                <h3>Title: @movie.Title</h3>
+                <p>Release date: @movie.ReleaseDate.ToString("yy-MM-dd")</p>
+            }
+        }
+
+
+
+
+    </div>
 
 @code{
 
     List<Movie> movies;
 
-    protected override void OnInitialized()
+    protected async override Task OnInitializedAsync()
     {
+        // wait 300 miliseconds
+        await Task.Delay(300);
+
+
         movies = new List<Movie>()
         {
             new Movie() { Title = "Inception", ReleaseDate = new DateTime(2009, 1, 6) },

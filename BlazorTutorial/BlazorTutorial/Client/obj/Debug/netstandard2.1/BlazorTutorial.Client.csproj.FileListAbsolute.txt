@@ -417,8 +417,8 @@
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/IndividualMovie.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/DummyTextInput.razor.g.cs
 /Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/Razor/Shared/DummyTextInput.razor.g.cs
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/0Xpt36ynM43Yqj7sconqg7r5hNhiuONOaOAwJRIi60k=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/QLZ5i2_zv-gqAy-olI2nnyQETP3my1WV6eEt5pXCilQ=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/huuzIU0n3UpxAOJNSFobJTzaT1c6Vnkn2G0dvAkV88U=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/QQLJxryEOFyQekcJ8LvCVmUIpDfEEza-ADvaBHbpCqw=.hash
-/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/fe3SHYRPVKKGNTgwOn5RG0gtmgRCIpQckS5BhQveC0o=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/fuW-GZdgT5rOThKQgDyr2O4bJyI0U7sz_IudzpFeMeE=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/TV91z8P5PIG1r_dv4465ex7tEaxdhk2fQ8xh8UWJB0w=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/RjFMg-nklq9kWo8pfASiccJl624Qgh3MdxWojlm7tnQ=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/b3s0_-5wr78LRTmzTaMnswLQAmHW9b4QwoqpbOEUk08=.hash
+/Users/crystark/Documents/BlazorCourse/BlazorTutorial/BlazorTutorial/Client/obj/Debug/netstandard2.1/integrity/poxmzlGlxlYT-Dn-ESPXh76_sIPsTPkRcetEgRRQQRE=.hash

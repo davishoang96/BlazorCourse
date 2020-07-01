@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/QLZ5i2_zv-gqAy-olI2nnyQETP3my1WV6eEt5pXCilQ=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/TV91z8P5PIG1r_dv4465ex7tEaxdhk2fQ8xh8UWJB0w=.hash",
       "Source": "\/Users\/crystark\/Documents\/BlazorCourse\/BlazorTutorial\/BlazorTutorial\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/BlazorTutorial.Client.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/BlazorTutorial.Client.dll.gz"
     },
@@ -291,7 +291,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/huuzIU0n3UpxAOJNSFobJTzaT1c6Vnkn2G0dvAkV88U=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RjFMg-nklq9kWo8pfASiccJl624Qgh3MdxWojlm7tnQ=.hash",
       "Source": "\/Users\/crystark\/Documents\/BlazorCourse\/BlazorTutorial\/BlazorTutorial\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/BlazorTutorial.Client.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/BlazorTutorial.Client.pdb.gz"
     },
@@ -321,12 +321,12 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/QQLJxryEOFyQekcJ8LvCVmUIpDfEEza-ADvaBHbpCqw=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/b3s0_-5wr78LRTmzTaMnswLQAmHW9b4QwoqpbOEUk08=.hash",
       "Source": "\/Users\/crystark\/Documents\/BlazorCourse\/BlazorTutorial\/BlazorTutorial\/Client\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/fe3SHYRPVKKGNTgwOn5RG0gtmgRCIpQckS5BhQveC0o=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/poxmzlGlxlYT-Dn-ESPXh76_sIPsTPkRcetEgRRQQRE=.hash",
       "Source": "\/Users\/crystark\/Documents\/BlazorCourse\/BlazorTutorial\/BlazorTutorial\/Client\/obj\/Debug\/netstandard2.1\/blazor\/service-worker-assets.js",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/service-worker-assets.js.gz"
     }

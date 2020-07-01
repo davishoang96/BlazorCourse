@@ -4,9 +4,14 @@
 }
 else
 {
+<div>
+    <p>Delete movie</p>
+    <input type="checkbox" @bind="state_displayButton" />
+
+</div>
     @foreach (var movie in Movies)
     {
-        <IndividualMovie Movie="movie" />
+        <IndividualMovie Movie="movie" DisplayButton="state_displayButton" />
     }
 }
 
@@ -14,6 +19,6 @@ else
 {
 
     [Parameter] public List<Movie> Movies { get; set; }
-
+    bool state_displayButton = false;
     
 }
